@@ -1,5 +1,8 @@
 import numpy as np
 
+print("This first the numerical method")
+print("="*50)
+
 def newton_method(f, df, x0, tol=1e-8, max_iterate=100):
 
     x = x0
