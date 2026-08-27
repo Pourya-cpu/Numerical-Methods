@@ -1,3 +1,4 @@
+#                                                                                             f(x) = sin(x) - x
 import numpy as np
 
 print("This first the numerical method")
